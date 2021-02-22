@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-root to: "parks#index"
+ root to: "parks#index"
 end
